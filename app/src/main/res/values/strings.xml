@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="items">
+        <item>Afryka</item>
+        <item>Ameryka Południowa</item>
+        <item>Aameryka Północna</item>
+        <item>Antarktyda</item>
+        <item>Australia</item>
+        <item>Europa</item>
+        <item>Azja</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>30.4 mln km2</item>
+        <item>17.8 mln km2</item>
+        <item>24.2 mln km2</item>
+        <item>13.2 mln km2</item>
+        <item>7.7 mln km2</item>
+        <item>10.2 mln km2</item>
+        <item>44.6 mln km2</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>59 panstw</item>
+        <item>13 panstw</item>
+        <item>22 panstw</item>
+        <item>51 panstw</item>
+        <item>14 państw Australii i Oceanii</item>
+        <item>46 panstw</item>
+        <item>48 panstw</item>
+    </string-array>
+</resources>
